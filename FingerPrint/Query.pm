@@ -174,7 +174,7 @@ sub out_xls {
 }
 
 sub DESTROY {
-    print "\n\nTings have already done.";
+    print "\n\nThings have already done.";
 }
 
 
